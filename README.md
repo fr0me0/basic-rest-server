@@ -1,0 +1,1 @@
+### Basic REST Server created with NODEJS and EXPRESS. It uses only packages like **dotenv** and **cors**.
